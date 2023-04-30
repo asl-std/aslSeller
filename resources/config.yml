@@ -1,0 +1,19 @@
+messages:
+  not-enough-items: '&6>> &cYou hasn''t enough items to sell.'
+  money-received: '&6>> &aYou successfully sell %amount items for %money $ !'
+  seller-updated: '&6>> &fItems for seller was updated !'
+
+formatted-money-icon: '&6$'
+
+price-settings:
+  # Enable price decrease per item sold.
+  price-decrease: true
+  # Price decrease formula.
+  # Available variables:
+  # items - int value equal to amount of items that Player sold.
+  # price - item price.
+  price-formula: 'price*(1-0.002*items/(1+0.002*items))'
+
+seller:
+  # Update period in seconds
+  update-period: 14400

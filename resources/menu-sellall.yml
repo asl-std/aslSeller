@@ -1,0 +1,8 @@
+menu-title: '&aItems Buyer'
+height: 6
+
+menu-buttons:
+  sell-items-button: 'ARROW:1:0:0♥&fSell items♦&fYou will receive: '
+
+background-items:
+- 'STAINED_GLASS:1:0♥&f=45,46,47,48,49,50,51,52'

@@ -1,0 +1,7 @@
+
+mmocore:
+  stats:
+  - 'phdmg:0.05'
+  - 'atkspd:0.3'
+  id:
+  - 'LEATHER_ARMOR0:75%'
